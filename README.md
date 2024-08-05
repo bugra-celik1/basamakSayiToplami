@@ -1,0 +1,1 @@
+# Sayının basamaklarındaki sayıları toplar.
